@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Amal-Salam
-- 👀 I’m interested in web development,software engineering,Blockchain and Artificial Intelligence.
-- 🌱 I’m currently learning reactjs,nodejs,python and solidity
+- 👩‍💻🥷 Software Engineer | Web Development | Natural Language Processing | Machine Learning
+  
+- 👀 I am a software engineer with a growing delight and passion for web development, natural language processing, and machine learning. I am always looking for new challenges 
+  and opportunities to learn and grow.
+- 👥 I am ALWAYS open to collaboration and learning from other devs.
+- 🌱 I’m currently learning MERN stack,python and Go.
+- Welcome to my GitHub Profile.
 
 
 <!---
