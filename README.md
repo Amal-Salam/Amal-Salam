@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amal-Salam
-- 👩‍💻🥷 Software Engineer | Web Development | Natural Language Processing | Machine Learning
+- 👩‍💻🥷 Software Engineer | Web Development ${FullStack} | Natural Language Processing | Machine Learning
   
 - 👀 I am a software engineer with a growing delight and passion for web development, natural language processing, and machine learning. I am always looking for new challenges 
   and opportunities to learn and grow.
